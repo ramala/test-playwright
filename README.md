@@ -1,5 +1,21 @@
 # Luma: This is a test project for Luma playwright tests
 
+# Install git using apt
+```
+sudo apt install git-all
+```
+# Verify git installation
+```
+git --version
+```
+## Git version should display for example
+git version 2.30.1
+
+# Clone the Luma playwright tests repository from [here](https://github.com/ramala/test-playwright) using below command
+```
+git clone
+```
+
 ## Follow below instructions to run the playwright scipts.
 
 # Install node:
