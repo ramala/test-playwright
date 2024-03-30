@@ -11,7 +11,7 @@ git --version
 ## Git version should display for example
 git version 2.30.1
 
-# Clone the Luma playwright tests repository from [here](https://github.com/ramala/test-playwright) using below command
+# Clone the Luma playwright tests repository from [here]([https://github.com/ramala/test-playwright](https://github.com/ramala/test-playwright/tree/main) using below command
 ```
 git clone
 ```
