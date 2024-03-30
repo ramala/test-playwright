@@ -31,19 +31,19 @@ npm update
 ```
 npm init playwright@latest
 ```
-*Choose between TypeScript or JavaScript (default is TypeScript)
-*Name of your Tests folder (default is tests or e2e if you already have a tests folder in your project)
-*Add a GitHub Actions workflow to easily run tests on CI
-*Install Playwright browsers (default is true)
+* Choose between TypeScript or JavaScript (default is TypeScript)
+* Name of your Tests folder (default is tests or e2e if you already have a tests folder in your project)
+* Add a GitHub Actions workflow to easily run tests on CI
+* Install Playwright browsers (default is true)
 
 By default, Playwright runs Tests in multiple types of browsers. Focussed only on Chromium for this assignment.
 
-*It is advised to download and Install VSCode suitable for your OS.
-*Open VSCode.
-*In VSCode, browse to my <Luma Auto Tests> folder and open it as a folder.
-*This will open the Playwright project in VS Code.
-
-Browse to the correct root folder from terminal
+* It is advised to download and Install VSCode suitable for your OS.
+* Open VSCode.
+* In VSCode, browse to my <Luma Auto Tests> folder and open it as a folder.
+* This will open the Playwright project in VS Code.
+* Browse to the correct root folder from terminal
+  
 use the below command to run tests
 ```
 npx playwright test /pd/ --headed --workers=1    --retries=2
